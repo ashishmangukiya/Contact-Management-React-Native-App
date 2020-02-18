@@ -4,4 +4,6 @@ Step 1 -> npm install
 
 Step 2 -> react-native link
 
-Step 3 -> npm run android
+Step 3 -> update android/local.properties file based on Operating system     
+
+Step 4 -> npm run android
