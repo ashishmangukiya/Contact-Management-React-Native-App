@@ -1,0 +1,7 @@
+
+
+Step 1 -> npm install
+
+Step 2 -> react-native link
+
+Step 3 -> npm run android
